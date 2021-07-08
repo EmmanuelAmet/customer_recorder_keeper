@@ -1,0 +1,2 @@
+rootProject.name = "customer_record_keeper"
+include ':app'
